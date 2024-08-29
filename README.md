@@ -13,4 +13,5 @@ Material | Conteúdo | Link
 
 ***
 **Rafael de Arruda Sobral, 2024. Estruturas de Dados e Algoritmos (Monitoria), UFCG.**
+
 **Prof. Dr. Adalberto Cajueiro de Farias, 2024. Estruturas de Dados e Algoritmos, UFCG.**
