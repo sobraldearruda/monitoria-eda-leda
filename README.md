@@ -10,6 +10,7 @@ Material | Conteúdo | Link
 4 | Busca Binária e Estatística de Ordem | [clique aqui](https://colab.research.google.com/drive/14s9YKjhR51ycKx2BnysHu_K1KP2X_yMr?usp=drive_link)
 5 | EDs Lineares - Pilha e Fila | [clique aqui](https://colab.research.google.com/drive/1oYtz1tjcWPjUFs5Pr8QrqGrdNirXRecf?usp=drive_link)
 6 | EDs Lineares - Linked List | [clique aqui](https://colab.research.google.com/drive/13XAcqKGG0tluSsEcMxwPC-snrc7sdt0T?usp=drive_link)
+7 | Binary Search Tree | [clique aqui](https://colab.research.google.com/drive/18Mc-vlns1SF8I_oiZXsBRGh0v_CDFsxF?usp=sharing)
 
 ***
 **Rafael de Arruda Sobral, 2024. Estruturas de Dados e Algoritmos (Monitoria), UFCG.**
