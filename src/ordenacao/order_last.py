@@ -12,8 +12,12 @@ def order_last(array, left, right):
   forma crescente, exceto pelo último número.
   """
 
-  # Escreva seu código abaixo:
-
+  i = right
+  while (i > left and array[i - 1] > array[i]):
+    aux = array[i]
+    array[i] = array[i - 1]
+    array[i - 1] = aux
+    i -= 1
 
 def main():
 
